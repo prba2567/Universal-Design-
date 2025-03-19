@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.05) 20%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.5));
+   background-color: #f6d8b5;
+   color: #333;
+   font: 1em / 1.4 Helvetica Neue, Helvetica, Arial, sans-serif;
+   padding: 1em;
+   margin: 0;
+ }
+
+ h1 {
+   font-size: 2rem;
+   margin: 0;
+   font-family:cursive;
+ }
+
+ h2 {
+   font-size: 1.6rem;
+   margin: 0;
+ }
+
+ h1, h2 {
+   color: purple;
+ }
+
+ p {
+    color: brown;
+   margin: 0.5em 0;
+ }
+
+ * {
+   box-sizing: border-box;
+ }
+ 
+ li{
+   color:green;
+ }
